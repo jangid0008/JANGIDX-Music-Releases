@@ -1,7 +1,7 @@
 {
-    "versionCode":  19,
-    "versionName":  "1.0.18",
+    "versionCode":  20,
+    "versionName":  "1.0.19",
     "apkUrl":  "https://github.com/jangid0008/JANGIDX-Music-Releases/releases/latest/download/JANGIDX-Music.apk",
-    "sha256":  "9f8fb31991a0432b2b053b563c2ab1d74f3d8fef006ae3a75ef2dd42c2642a95",
-    "notes":  "Test the new JANGIDX-themed update popup and secure in-app download experience."
+    "sha256":  "117a5b1d2aa40a74da37b16988e8cdcc9f5bc6850f44478b7bede51af18cb665",
+    "notes":  "Improvements and bug fixes."
 }
