@@ -1,7 +1,7 @@
 {
-    "versionCode":  16,
-    "versionName":  "1.0.15",
+    "versionCode":  17,
+    "versionName":  "1.0.16",
     "apkUrl":  "https://github.com/jangid0008/JANGIDX-Music-Releases/releases/latest/download/JANGIDX-Music.apk",
-    "sha256":  "0f740b26f73d2fc4142f8ceefe92c7684cb93d0746a9611b9df452ea13a9b428",
-    "notes":  "Faster song startup, reliable play/pause controls, background playback, and performance improvements."
+    "sha256":  "5ff97df91f7b0a9aa96b8aafd16533ca4111b6596700c42530b54abb7a7761d4",
+    "notes":  "Updates now download securely inside the app with progress and open the Android installer directly."
 }
