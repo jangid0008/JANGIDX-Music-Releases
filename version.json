@@ -1,7 +1,7 @@
 {
-    "versionCode":  21,
-    "versionName":  "1.0.20",
+    "versionCode":  22,
+    "versionName":  "1.0.21",
     "apkUrl":  "https://github.com/jangid0008/JANGIDX-Music-Releases/releases/latest/download/JANGIDX-Music.apk",
-    "sha256":  "c1ca4358c4f8d72dfe913a0083ccb962d5e3a25cf10c2b265d6eed4b4a116d9d",
-    "notes":  "Classic player animation, Quick Pick startup, and refresh fixes."
+    "sha256":  "6c65b60fb7d370cb5f9036f1b07da672d1d250ff50d9325c1111353a61a9c75e",
+    "notes":  "Fixes black screen after splash."
 }
