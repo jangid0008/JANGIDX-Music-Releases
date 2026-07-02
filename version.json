@@ -1,7 +1,7 @@
 {
-    "versionCode":  20,
-    "versionName":  "1.0.19",
+    "versionCode":  21,
+    "versionName":  "1.0.20",
     "apkUrl":  "https://github.com/jangid0008/JANGIDX-Music-Releases/releases/latest/download/JANGIDX-Music.apk",
-    "sha256":  "117a5b1d2aa40a74da37b16988e8cdcc9f5bc6850f44478b7bede51af18cb665",
-    "notes":  "Improvements and bug fixes."
+    "sha256":  "c1ca4358c4f8d72dfe913a0083ccb962d5e3a25cf10c2b265d6eed4b4a116d9d",
+    "notes":  "Classic player animation, Quick Pick startup, and refresh fixes."
 }
