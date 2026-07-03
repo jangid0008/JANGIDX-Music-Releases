@@ -1,7 +1,7 @@
 {
-    "versionCode":  24,
-    "versionName":  "1.0.23",
+    "versionCode":  25,
+    "versionName":  "1.0.24",
     "apkUrl":  "https://github.com/jangid0008/JANGIDX-Music-Releases/releases/latest/download/JANGIDX-Music.apk",
-    "sha256":  "501cd68dc52e3a1391d9a3c00c49d8dadcfd238c2aeabe723ca0ce27d64797cf",
-    "notes":  "Fix Google Sign-In after account selection."
+    "sha256":  "5dcd10861ad1eb4150d3397d3d360398c322b72b142f29749c66ca9ab22f7b50",
+    "notes":  "No more blank black screen after splash while the app is loading."
 }
