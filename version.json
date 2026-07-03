@@ -1,7 +1,7 @@
 {
-    "versionCode":  25,
-    "versionName":  "1.0.24",
+    "versionCode":  26,
+    "versionName":  "1.0.25",
     "apkUrl":  "https://github.com/jangid0008/JANGIDX-Music-Releases/releases/latest/download/JANGIDX-Music.apk",
-    "sha256":  "5dcd10861ad1eb4150d3397d3d360398c322b72b142f29749c66ca9ab22f7b50",
-    "notes":  "No more blank black screen after splash while the app is loading."
+    "sha256":  "b1c20d98b2319e7e4b3be0ab77cbc371a1ae5d57f830789fae89990682c4124e",
+    "notes":  "Splash now stays visible until the app is ready."
 }
