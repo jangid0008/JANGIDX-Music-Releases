@@ -1,7 +1,7 @@
 {
-    "versionCode":  23,
-    "versionName":  "1.0.22",
+    "versionCode":  24,
+    "versionName":  "1.0.23",
     "apkUrl":  "https://github.com/jangid0008/JANGIDX-Music-Releases/releases/latest/download/JANGIDX-Music.apk",
-    "sha256":  "cd96533df764464493d6487a1d79da8b67c6bd051e36617b3a1b85f4bdcbf22e",
-    "notes":  "Separate native app and website analytics."
+    "sha256":  "501cd68dc52e3a1391d9a3c00c49d8dadcfd238c2aeabe723ca0ce27d64797cf",
+    "notes":  "Fix Google Sign-In after account selection."
 }
