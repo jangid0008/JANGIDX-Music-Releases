@@ -1,7 +1,7 @@
 {
-    "versionCode":  26,
-    "versionName":  "1.0.25",
+    "versionCode":  27,
+    "versionName":  "1.0.26",
     "apkUrl":  "https://github.com/jangid0008/JANGIDX-Music-Releases/releases/latest/download/JANGIDX-Music.apk",
-    "sha256":  "b1c20d98b2319e7e4b3be0ab77cbc371a1ae5d57f830789fae89990682c4124e",
-    "notes":  "Splash now stays visible until the app is ready."
+    "sha256":  "75d5a686b02ede3eb0c5fe5f1eb35c2000e8ae43f86fc5d81ecfebde766e0cf2",
+    "notes":  "Smooth song transitions, haptic controls, and animated audio-mode background."
 }
